@@ -1,0 +1,8 @@
+/*字体设置*/
+@import url('../font/iconfont.css?__inline');
+
+/*header样式*/
+@import url('../component/header/index.css?__inline');
+
+/*menu样式*/
+@import url('../component/menu/index.css?__inline');
